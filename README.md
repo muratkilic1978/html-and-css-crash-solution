@@ -1,5 +1,5 @@
-# html-and-css-crash-solution
-# Chrome Dev Tool - Exercise
+### html-and-css-crash-solution ###
+# Chrome Dev Tools - Exercise
 
 In this exercise you will dig into Chrome Dev Tools and learn how Chrome Dev Tools can help you when creating websites. You will learn more about following topics:
 
