@@ -13,8 +13,10 @@ In this exercise you will dig into Chrome Dev Tools and learn how Chrome Dev Too
 ## Instructions
 1. Open the **follow-me** tutorial below on Chrome - this video gives you instructions step-by-step on how to use the different elements in Chrome Dev Tools\
 [Follow-me video - Chrome Dev Tools ](https://www.youtube.com/watch?v=25R1Jl5P7Mw)
-2. Open the website below (**Demo website**) in another tab on Chrome where you can try and apply all what you learn from the follow-me video from **step 1** \
+2. Open the website below (**Demo website**) in another tab on Chrome \
 [Demo Website](https://muratkilic1978.github.io/html-and-css-crash-solution/)
+3. Now right-click on the **Demo-website** and click **Inspect** Element, or press **[Command+Option+i]** on your Mac or **[F12]** on a Windows.
+4. Finally watch the **follow-me** video from **step 1** and try and apply all what you learn from the follow-me on the **Demo-website*
 
 If you want to learn more about Google Dev Tools please check the following websites:
 
